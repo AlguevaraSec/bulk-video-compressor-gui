@@ -11,7 +11,7 @@
 
 *A sleek, lightning-fast desktop application for compressing multiple videos with a beautiful interface powered by FFmpeg.*
 
-<img src="https://i.ibb.co/WWGdmKSk/Screenshot-2026-06-28-035726.png" width="100%" alt="Guevara Bulk Video Compressor"/>
+<img src="https://i.ibb.co/KpHdC8cG/a3.png" width="100%" alt="Guevara Bulk Video Compressor"/>
 
 </div>
 
